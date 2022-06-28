@@ -109,8 +109,8 @@ tensorflow==2.8.0
 tensorflow-gpu==2.8.0
 tensorflow-io-gcs-filesystem==0.25.0
 termcolor==1.1.0
-tf-estimator-nightly==2.10.0.dev2022052208
-tf-nightly-gpu==2.10.0.dev20220514
+tf-estimator-nightly==
+tf-nightly-gpu==
 tornado==6.1
 tqdm==4.64.0
 traitlets==5.2.0
