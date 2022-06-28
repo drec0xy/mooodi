@@ -34,8 +34,6 @@ jason==0.1.7
 jedi==0.18.1
 Jinja2==3.1.2
 joblib==1.1.0
-keras==2.8.0
-Keras-Preprocessing==1.1.2
 kiwisolver==1.4.2
 libclang==14.0.1
 Markdown==3.3.6
@@ -47,7 +45,6 @@ nest-asyncio==1.5.5
 nltk==3.7
 numpy==1.22.3
 oauthlib==3.1.1
-opencv-python==4.5.5.64
 opt-einsum==3.3.0
 packaging==21.3
 pandas==1.4.2
@@ -76,11 +73,6 @@ scipy==1.8.0
 six==1.16.0
 sqlparse==0.4.1
 stack-data==0.2.0
-tensorboard==2.8.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.8.0
-tensorflow-io-gcs-filesystem==0.25.0
 termcolor==1.1.0
 tornado==6.1
 tqdm==4.64.0
